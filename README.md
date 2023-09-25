@@ -6,5 +6,3 @@ A project work on data analysis in excel with an interactive dashboard of one ye
 - The tops were purchased from various online retailers such as Myntra, Nalli, Flipkart, and Amazon.
 - The tops were delivered to different locations across India, including cities like Delhi, Mumbai, Bangalore, and Pune.
 - Some of the orders were returned or cancelled, while others were successfully delivered.
-
-- 
